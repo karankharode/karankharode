@@ -47,7 +47,6 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/ProgrammingwithKaranKharode)
 
-<br />
 ---
 
 </details>
