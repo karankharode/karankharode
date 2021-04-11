@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
   
 
   <img align="left" alt="karankharode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karankharode&show_icons=true&hide_border=true" />
