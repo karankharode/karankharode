@@ -5,9 +5,8 @@
 ## I'm a Youtuber, Freelancer, Developer, and Teacher!!
 
 - 🔭 I just started the first batch for my first course: [Awesome Flutter !][course]!
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- ❄️ I’m currently learning Flutter 
+- 👨🏻‍💻 Self taught Programmer
 - ⚡ Fun fact: I love to play Chess
 
 ### Connect with me:
