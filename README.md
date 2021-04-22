@@ -48,6 +48,8 @@
 ➡️ [more videos...](https://www.youtube.com/c/ProgrammingwithKaranKharode)
 
 ---
+### 📺 Join our Telegram Community
+-[The Flutter Community ](https://karankharode.page.link/theFlutterCommunity)
 
 </details>
 
@@ -67,4 +69,4 @@
 [dsPlaylist]: https://www.youtube.com/playlist?list=PLiomYh1ZBANevyrowF3FVufuMEspn8vct
 [reactNativePlaylist]: https://www.youtube.com/playlist?list=PLiomYh1ZBANfv32pYDUlJQAM8z70P3In-
 [flutterPlaylist]: https://www.youtube.com/playlist?list=PLiomYh1ZBANfBU9PV8edL5vxhB97bpHR4
-
+[telegram]: https://karankharode.page.link/theFlutterCommunity
