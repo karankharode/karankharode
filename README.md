@@ -49,7 +49,7 @@
 
 ---
 ### 📺 Join our Telegram Community
--[The Flutter Community ](https://karankharode.page.link/theFlutterCommunity)
+-[The Flutter Community 🇮🇳](https://karankharode.page.link/theFlutterCommunity)
 
 </details>
 
@@ -61,7 +61,7 @@
 
 
 
-[course]: https://www.youtube.com/c/ProgrammingwithKaranKharode
+[course]: https://github.com/karankharode/Flutter-Course
 [twitter]: https://twitter.com/KaranKharode?s=09
 [youtube]: https://www.youtube.com/c/ProgrammingwithKaranKharode
 [instagram]: https://www.instagram.com/karan_kharode/
